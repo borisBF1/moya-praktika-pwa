@@ -1,0 +1,13 @@
+# Резервные копии данных приложения (могут содержать данные клиентов)
+*-backup*.json
+moya-praktika-*.json
+
+# Служебные файлы редакторов, ОС и Claude Code
+.claude/
+.vscode/
+.idea/
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
